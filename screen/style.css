@@ -1,0 +1,38 @@
+.text1{
+    font-family: Arial,  
+        Helvetica, sans-serif; 
+    background: linear-gradient(to bottom, #2125f3, #ff08c1); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+}
+.text2{
+    font-family: Arial,  
+        Helvetica, sans-serif; 
+    background: linear-gradient(to bottom, #2125f3, #ff08c1); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+}
+.text3{
+    font-family: Arial,  
+        Helvetica, sans-serif; 
+    background: linear-gradient(to bottom, #2125f3, #ff08c1); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+}
+.text4{
+    font-family: Arial,  
+        Helvetica, sans-serif; 
+    background: linear-gradient(to bottom, #2125f3, #ff08c1); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+}
+.head{
+    font-family: Arial,  
+        Helvetica, sans-serif; 
+    background: linear-gradient(to bottom, #2125f3, #ff08c1); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text;
+}
+.text{
+    margin-top: 300px;
+}
